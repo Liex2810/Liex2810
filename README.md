@@ -78,11 +78,6 @@ This space brings together my projects, coding exercises, and learning notes as 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
 
-### AI Tools & APIs
-
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D49B77?style=for-the-badge&logo=claude&logoColor=white)
-
 ## Currently Learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
