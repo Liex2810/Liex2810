@@ -30,66 +30,66 @@ I'm Felix, an informatics student who enjoys understanding how systems work, sol
 
 This space brings together my projects, coding exercises, and learning notes as I turn concepts into practice.
 
-## Technologies & Tools
+## 🛠️ Stack
 
-**Programming Languages**
+### Programming Languages
 
-![C](https://img.shields.io/badge/C-111b2b?style=flat-square&logo=c&logoColor=7aa2f7)
-![C++](https://img.shields.io/badge/C%2B%2B-111b2b?style=flat-square&logo=cplusplus&logoColor=7aa2f7)
-![Pascal](https://img.shields.io/badge/Pascal-111b2b?style=flat-square)
-![Python](https://img.shields.io/badge/Python-111b2b?style=flat-square&logo=python&logoColor=7aa2f7)
-![Java](https://img.shields.io/badge/Java-111b2b?style=flat-square)
-![C Sharp](https://img.shields.io/badge/C%23-111b2b?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-31549B?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
 
-**Web Development**
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-111b2b?style=flat-square&logo=html5&logoColor=7aa2f7)
-![CSS](https://img.shields.io/badge/CSS-111b2b?style=flat-square&logo=css&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-111b2b?style=flat-square&logo=javascript&logoColor=7aa2f7)
-![Next.js](https://img.shields.io/badge/Next.js-111b2b?style=flat-square&logo=nextdotjs&logoColor=7aa2f7)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Data Science & Machine Learning**
+### Data Science & Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-111b2b?style=flat-square&logo=numpy&logoColor=7aa2f7)
-![pandas](https://img.shields.io/badge/pandas-111b2b?style=flat-square&logo=pandas&logoColor=7aa2f7)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111b2b?style=flat-square&logo=scikitlearn&logoColor=7aa2f7)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111b2b?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111b2b?style=flat-square&logo=tensorflow&logoColor=7aa2f7)
-![Anaconda](https://img.shields.io/badge/Anaconda-111b2b?style=flat-square&logo=anaconda&logoColor=7aa2f7)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111b2b?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Databases**
+### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-111b2b?style=flat-square&logo=mysql&logoColor=7aa2f7)
-![MariaDB](https://img.shields.io/badge/MariaDB-111b2b?style=flat-square&logo=mariadb&logoColor=7aa2f7)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Security & Networking**
+### Security & Networking
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-111b2b?style=flat-square&logo=kalilinux&logoColor=7aa2f7)
-![Nmap](https://img.shields.io/badge/Nmap-111b2b?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-111b2b?style=flat-square&logo=metasploit&logoColor=7aa2f7)
-![Wireshark](https://img.shields.io/badge/Wireshark-111b2b?style=flat-square&logo=wireshark&logoColor=7aa2f7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111b2b?style=flat-square&logo=burpsuite&logoColor=7aa2f7)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-111b2b?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-4A5568?style=for-the-badge)
 
-**Development & Design**
+### Development & Design
 
-![Git](https://img.shields.io/badge/Git-111b2b?style=flat-square&logo=git&logoColor=7aa2f7)
-![GitHub](https://img.shields.io/badge/GitHub-111b2b?style=flat-square&logo=github&logoColor=7aa2f7)
-![Figma](https://img.shields.io/badge/Figma-111b2b?style=flat-square&logo=figma&logoColor=7aa2f7)
-![Windows](https://img.shields.io/badge/Windows-111b2b?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
 
-**AI Tools & APIs**
+### AI Tools & APIs
 
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-111b2b?style=flat-square)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-111b2b?style=flat-square&logo=claude&logoColor=7aa2f7)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D49B77?style=for-the-badge&logo=claude&logoColor=white)
 
 ## Currently Learning
 
-![Flutter](https://img.shields.io/badge/Flutter-111b2b?style=flat-square&logo=flutter&logoColor=7aa2f7)
-![Dart](https://img.shields.io/badge/Dart-111b2b?style=flat-square&logo=dart&logoColor=7aa2f7)
-![YOLO](https://img.shields.io/badge/YOLO-111b2b?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-111b2b?style=flat-square&logo=supabase&logoColor=7aa2f7)
-![Firebase](https://img.shields.io/badge/Firebase-111b2b?style=flat-square&logo=firebase&logoColor=7aa2f7)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## Projects & Learning Archive
 
